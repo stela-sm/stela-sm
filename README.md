@@ -19,7 +19,6 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html5-40-1175193.png" alt="HTML"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-5-752605.png" alt="Bootstrap"/></code>
 
 ---
 
