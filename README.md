@@ -11,6 +11,7 @@
 ---
 
 ## 🚀 Minhas Skills
+<code>
 
 
     <td><code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code></td>
@@ -22,7 +23,7 @@
     <td><code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code></td>
     <td><code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/flask-16-1175140.png" alt="Flask"/></code></td>
     <td><code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/google-38-722716.png" alt="Google API"/></code></td>
-
+</code>
 ---
 
 ## ⭐ GitHub Stats
