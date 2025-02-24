@@ -4,8 +4,8 @@
 🎓 Formada Técnica em Informática e cursando o ensino superior em Desenvolvimento de Software Multiplataforma.
 📍 Localização: São Paulo/ Brasil  
 📧 Contato: stelamontenegro37@gmail.com
-🔗 LinkedIn:   
-🔗 Portfólio:   
+🔗 LinkedIn: www.linkedin.com/in/stelasm/
+🔗 Portfólio: stela-sm.github.io/portifolio/
 
 ---
 ---
