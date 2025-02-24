@@ -19,6 +19,8 @@
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-2752101-2284918.png" alt="PHP"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript"/></code>
+ <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/figma-6-569432.png" alt="Figma"/>
+  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/flask-17-1175237.png" alt="Flask"/>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html5-40-1175193.png" alt="HTML"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="CSS"/></code>
