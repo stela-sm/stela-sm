@@ -8,7 +8,6 @@
 🔗 Portfólio: stela-sm.github.io/portifolio/
 
 ---
----
 
 ## 🚀 Minhas Skills
 
