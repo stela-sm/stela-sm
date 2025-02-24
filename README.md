@@ -17,14 +17,13 @@
 ## 🚀 Minhas Skills
 
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-2752101-2284918.png" alt="PHP"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png" alt="JavaScript"/></code>
- <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/figma-6-569432.png" alt="Figma"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/flask-17-1175237.png" alt="Flask"/>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-21-1174941.png" alt="MySQL"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html5-40-1175193.png" alt="HTML"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png" alt="CSS"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 
 ---
 
