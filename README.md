@@ -28,4 +28,5 @@
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight)
+
