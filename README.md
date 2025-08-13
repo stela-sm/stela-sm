@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Stela Montenegro!
 
-💻 Desenvolvedora Full-stack 
+💻 Desenvolvedora de Software 
 
 🎓 Formada Técnica em Informática e cursando o ensino superior em Desenvolvimento de Software Multiplataforma.
 
