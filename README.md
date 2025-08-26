@@ -1,37 +1,62 @@
 
-  <h2>💜 Olá, meu nome é Stela Montenegro!</h2>
-  <img src="https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif" alt="Nuvens lilás animadas" style="width: 50%; height: auto; border: none; outline: none;" />
+  <img src="https://64.media.tumblr.com/2fb42ec2b553c930de019a3d16d69888/10a0300627f4e0f7-3a/s1280x1920/568fd205e9b45b6e6368c426183f3b28ee3d425c.gif" alt="Nuvens lilás animadas" style="width: 100vw; height: auto; border: none; outline: none;" />
+
+  <h1 align="center">Bem vindo(a), eu sou Stela Montenegro</h1> <h3 align="center" >Deenvolvedora de software</h3>
+
+<div align="center">
+  
+
+![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brasil-purple?style=for-the-badge&logo=location-arrow)
+![Email](https://img.shields.io/badge/Email-stelamontenegro37%40gmail.com-yellow?style=for-the-badge&logo=gmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stela%20Montenegro-pink?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stelasm/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stela--sm.github.io%2Fportifolio-blue?style=for-the-badge&logo=github)](https://stela-sm.github.io/portifolio/)
+
+<br><br>
+<div style="display: flex; align-items: center; justify-content: flex-start; width: 100%;">
+
+  <p style="margin-right: 20px; font-size: 1.2em;">
+   Sou estudante de Desenvolvimento de Software e tenho buscado consolidar minha experiência em projetos acadêmicos e pessoais. Já desenvolvi e-commerces completos, marketplaces sustentáveis e plataformas de acessibilidade, sempre com foco no back-end usando PHP, MySQL e Java, mas também explorando Python, APIs e automação. Aqui no GitHub compartilho sistemas, experimentos e ideias que refletem meu aprendizado e minha evolução como desenvolvedora.
+  </p>
+
+  <img src="https://cdna.artstation.com/p/assets/images/images/057/603/820/original/blake-s-animatedsiamesecat400x400ish.gif?1672119209" alt="GIF Animado de Gato" width="200px" height="auto" style="border: none; outline: none;" />
+
+</div>
+<br>
+<br>
+<br>
+
+  <h1 align="center" style="margin-top:40px">Minhas Ferramentas e Stacks utilizadas</h1>
 
 
+<p align="center">
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="insomnia" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+</p>
 
-💻 Desenvolvedora de Software 
+<br>
+<br>
+<br>
 
-🎓 Formada Técnica em Informática e cursando o ensino superior em Desenvolvimento de Software Multiplataforma.
+<h1>GitHub Stats</h1>
 
-📍 Localização: São Paulo/ Brasil  
-
-📧 Contato: stelamontenegro37@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/stelasm/
-
-🔗 Portfólio: stela-sm.github.io/portifolio/
-
----
-
-## 🚀 Minhas Skills
-
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-
----
-
-## ⭐ GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight)
 
