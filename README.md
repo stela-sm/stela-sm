@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/bongo-cat-meme-gif-desktop-wallpaper-cover.gif" alt="Nuvens lilás animadas" width="100%" />
+</p>
+
 ## 💜 Olá, meu nome é Stela Montenegro!
 
 💻 Desenvolvedora de Software 
