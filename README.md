@@ -1,13 +1,7 @@
-<table style="width: 100%; border: none;">
-  <tr>
-    <td style="width: 50%; text-align: left; vertical-align: middle; border: none;">
-      <h2 style="margin: 0;">💜 Olá, meu nome é Stela Montenegro!</h2>
-    </td>
-    <td style="width: 50%; text-align: right; vertical-align: middle; border: none;">
-      <img src="https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif" alt="Nuvens lilás animadas" style="width: 100%; max-width: 250px; height: auto; border: none; outline: none;" />
-    </td>
-  </tr>
-</table>
+
+  <h2>💜 Olá, meu nome é Stela Montenegro!</h2>
+  <img src="https://i.pinimg.com/originals/c7/f6/f6/c7f6f68b40b7e3956482c902372fb4af.gif" alt="Nuvens lilás animadas" style="width: 50%; height: auto; border: none; outline: none;" />
+
 
 
 💻 Desenvolvedora de Software 
