@@ -1,7 +1,13 @@
-
-
-  <h1 align="center">Stela Montenegro</h1> <h3 align="center" >Deenvolvedora de software</h3>
-
+<div>
+<img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
+ <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; ">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
+ <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; ">
+  
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
+</div>
+<h1 align="center">Stela Montenegro</h1> <h3 align="center" >Deenvolvedora de software</h3>
 <div align="center">
   
 
@@ -17,7 +23,7 @@
    Sou estudante de Desenvolvimento de Software e tenho buscado consolidar minha experiência em projetos acadêmicos e pessoais. Já desenvolvi e-commerces completos, marketplaces sustentáveis e plataformas de acessibilidade, sempre com foco no back-end usando PHP, MySQL e Java, mas também explorando Python, APIs e automação. Aqui no GitHub compartilho sistemas, experimentos e ideias que refletem meu aprendizado e minha evolução como desenvolvedora.
   </p>
 
-  <img src="https://cdna.artstation.com/p/assets/images/images/057/603/820/original/blake-s-animatedsiamesecat400x400ish.gif?1672119209" alt="GIF Animado de Gato" width="200px" height="auto" style="border: none; outline: none;" />
+  <img src="https://i.pinimg.com/originals/91/2b/1b/912b1bf673be63c2d5bbb1a2c4b8dfa3.gif" alt="GIF Animado de Gato" width="200px" height="auto" style="border: none; outline: none;" />
 
 </div>
 <br>
@@ -51,10 +57,6 @@
 </p>
 
 <br>
-<br>
-<br>
-
-<h1>GitHub Stats</h1>
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight)
