@@ -49,7 +49,9 @@
 <br>
 
 <!-- GitHub Stats Section -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight)
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</div>
 
 <br><br>
 
@@ -60,4 +62,3 @@
   <img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; max-width: 150px; height: auto; border: none;" />
   <img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; max-width: 150px; height: auto; border: none;" />
 </div>
-
