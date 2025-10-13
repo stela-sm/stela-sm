@@ -1,6 +1,11 @@
 
-  <img src="https://64.media.tumblr.com/2fb42ec2b553c930de019a3d16d69888/10a0300627f4e0f7-3a/s1280x1920/568fd205e9b45b6e6368c426183f3b28ee3d425c.gif" alt="Nuvens lilás animadas" style="width: 100vw; height: auto; border: none; outline: none;" />
-
+  <div style="width: 100%">
+  <img src="https://i.pinimg.com/originals/9f/2d/fd/9f2dfd681c266e8d35220faff31a99f4.gif" style="width: 19vw; height: auto; border: none; outline: none;" />
+  <img src="https://i.pinimg.com/originals/9f/2d/fd/9f2dfd681c266e8d35220faff31a99f4.gif" style="width: 19vw; height: auto; border: none; outline: none;" />
+  <img src="https://i.pinimg.com/originals/9f/2d/fd/9f2dfd681c266e8d35220faff31a99f4.gif" style="width: 19vw; height: auto; border: none; outline: none;" />
+  <img src="https://i.pinimg.com/originals/9f/2d/fd/9f2dfd681c266e8d35220faff31a99f4.gif" style="width: 19vw; height: auto; border: none; outline: none;" />
+  
+  </div>
   <h1 align="center">Bem vindo(a), eu sou Stela Montenegro</h1> <h3 align="center" >Deenvolvedora de software</h3>
 
 <div align="center">
@@ -60,3 +65,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight)
 
+
+<img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
+<img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
+<img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
+<img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
+<img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
+<img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
