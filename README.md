@@ -10,10 +10,10 @@
 <div align="center">
 
 
-![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brasil-blue?style=for-the-badge&logo=location-arrow)
-![Email](https://img.shields.io/badge/Email-stelamontenegro37%40gmail.com-blue?style=for-the-badge&logo=gmail)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stela%20Montenegro-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stelasm/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-stela--sm.github.io%2Fportifolio-blue?style=for-the-badge&logo=github)](https://stela-sm.github.io/portifolio/)
+![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brasil-00B5A1?style=for-the-badge&logo=location-arrow&logoColor=white&color=00B5A1)
+![Email](https://img.shields.io/badge/Email-stelamontenegro37%40gmail.com-00B5A1?style=for-the-badge&logo=gmail&logoColor=white&color=00B5A1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stela%20Montenegro-00B5A1?style=for-the-badge&logo=linkedin&logoColor=white&color=00B5A1)](https://www.linkedin.com/in/stelasm/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-stela--sm.github.io%2Fportifolio-00B5A1?style=for-the-badge&logo=github&logoColor=white&color=00B5A1)](https://stela-sm.github.io/portifolio/)
 
 <br><br>
 <div style="display: flex; align-items: center; justify-content: flex-start; width: 100%;">
