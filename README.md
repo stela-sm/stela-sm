@@ -31,7 +31,6 @@
 
   <h1 align="center" style="margin-top:40px">Minhas Ferramentas e Stacks utilizadas</h1>
 
-
 <p align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
@@ -57,8 +56,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stela-sm&layout=compact&theme=merko)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stela-sm&show_icons=true&theme=tokyonight)
 
 
 <img src="https://i.pinimg.com/originals/6a/66/24/6a6624d2a3929ad37419214b02a7640d.gif" style="width: 15vw; height: auto; border: none; outline: none;">
