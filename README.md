@@ -1,4 +1,4 @@
-<div>
+<div style="diplsy:flex; justify-content:space-around">
  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; ">
   <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
   <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
