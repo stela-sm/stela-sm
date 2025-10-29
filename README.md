@@ -1,9 +1,18 @@
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 100%;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(100px, 10vw));
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 100vw;
+  padding: 20px 0;
+">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
 </div>
 
 <h1 align="center">Stela Montenegro</h1>
