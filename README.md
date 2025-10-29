@@ -1,22 +1,20 @@
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 10vw));
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  width: 100%;
-  max-width: 100vw;
-  padding: 20px 0;
-">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 100%; height: auto;">
-</div>
+<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <tr>
+    <td align="left" width="80">
+      <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" width="80" alt="left">
+    </td>
+    <td align="center">
+      <h1 style="margin:0; padding:0;">Stela Montenegro</h1>
+      <h3 style="margin:0; padding:0;">Desenvolvedora de software</h3>
+    </td>
+    <td align="right" width="80">
+      <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" width="80" alt="right">
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">Stela Montenegro</h1>
-<h3 align="center">Desenvolvedora de software</h3>
+</div>
 <div align="center">
 
 
