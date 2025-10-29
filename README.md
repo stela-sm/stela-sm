@@ -1,12 +1,15 @@
-<div style="diplay:flex; justify-content:space-around; width: 100vw">
- <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; ">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;"> 
-  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 100%;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
+  <img src="https://i.pinimg.com/originals/22/89/f2/2289f2d12ec3671717ae25b6a33b3aeb.gif" style="width: 10vw; min-width: 80px;">
 </div>
-<h1 align="center">Stela Montenegro</h1> <h3 align="center" >Deenvolvedora de software</h3>
+
+<h1 align="center">Stela Montenegro</h1>
+<h3 align="center">Desenvolvedora de software</h3>
 <div align="center">
+
 
 
 ![Location](https://img.shields.io/badge/Location-São%20Paulo%2C%20Brasil-00B5A1?style=for-the-badge&logo=location-arrow&logoColor=white&color=00B5A1)
